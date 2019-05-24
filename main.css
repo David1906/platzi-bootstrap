@@ -2,7 +2,7 @@
     color: #97c93e !important;
 }
 .text-platzi:hover{
-    transform: scale(1.03);
+    opacity: .9;
 }
 
 .btn-platzi{
@@ -11,7 +11,7 @@
 }
 
 .btn-platzi:hover{
-    background-color: #82ad36;
+    background-color: #7ba730;
 }
 
 /* Taggs */
